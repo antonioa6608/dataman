@@ -15,6 +15,7 @@ To install dataman, you must extract the zipfolder that is located in the files 
 On Windows terminal 
 --------------------
 run to check if python is installed ---->      python --version 
+To install flask ------> pip install flask 
 
 Sprint retrospective  Dataman
 ------------------------------
