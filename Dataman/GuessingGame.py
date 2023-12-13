@@ -25,7 +25,7 @@ def guessGame():
 
         if guesses < correctNum:
             print("Try again , the number is higher")
-        elif guesses < correctNum:
+        elif guesses > correctNum:
             print("try again, the number is lower")
         else:
             print(f"RIGHT!, the correct number was {correctNum}")
