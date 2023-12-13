@@ -12,6 +12,10 @@ Flask
 Python 
 To install dataman, you must extract the zipfolder that is located in the files section. You must have python and Flask downloaded in your device. If you do not have the current version of python and Flask see the steps under to download. 
 
+On Windows terminal 
+--------------------
+run to check if python is installed ---->      python --version 
+
 Sprint retrospective  Dataman
 ------------------------------
 What went well in this sprint?:I got to work on the last feature which is  guessing a number. In total, we have three features login , math game, and a guessing program. 
